@@ -1,5 +1,5 @@
 {
-    "name": "coduo/php-humanizer",
+    "name": "codeasashu/php-humanizer",
     "type": "library",
     "description": "Humanize values that are readable only for developers",
     "keywords": ["php", "humanize", "humanizer"],
